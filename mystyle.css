@@ -101,8 +101,13 @@
 	float: right;
 	margin-top: 15px;
 }
-.featureNameSpan a{
-
+.featureDivUnit a{
+	text-decoration:none;
+	color:black;
+}
+.featureDivUnit img{
+	height: 100px;
+	width: 180px;
 }
 .featureDivBody{
 	text-align: center;
